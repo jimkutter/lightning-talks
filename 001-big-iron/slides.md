@@ -4,13 +4,12 @@
 
 ---
 
--> # Big Iron Explained <-
 -> ## or <-
 -> ## 'How to get a job in New Jersey' <-
 
 ---
 
--> # Introduction <-
+-> # Why Mainframe? <-
 
 * Personal connection to S/360
 * It's completely foreign
@@ -21,16 +20,16 @@
 -> # Basics (from a *NIX user's perspective) <-
 
 * Finding our way around
-* Where's my stuff
+* "Where's my stuff?"
 * File editing basics
 
 ---
 
 -> # Submitting a job from TSO <-
 
-* Hello World
 * Upload to mainframe
 * Edits via TSO
+* Hello World
 
 ---
 
@@ -44,9 +43,9 @@
 
 -> # Further Reading <-
 
-* Hercules website
-* Jurgen's Tur(n)key site
-* Jay Moseley's TSO
-* moshix mainframe channel
+* [Hercules website](http://www.hercules-390.org/)
+* [Jurgen's Tur(n)key site](http://wotho.ethz.ch/tk4-/)
+* [Jay Moseley's TSO Tutorial](http://www.jaymoseley.com/hercules/tso_tutor/tsotutor.htm)
+* [moshix mainframe channel](https://www.youtube.com/user/moshe5760)
 
 ---
