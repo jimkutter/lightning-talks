@@ -1,51 +1,41 @@
-%title: Big Iron Explained
-%author: Jim Kutter
-%date: 2020-05-06
+% Big Iron Explained
+% Jim Kutter
+% 2020-05-06
 
 ---
+## or
+## 'How to get a job in New Jersey'
 
--> ## or <-
--> ## 'How to get a job in New Jersey' <-
-
----
-
--> # Why Mainframe? <-
+# Why Mainframe?
 
 * Personal connection to S/360
 * It's completely foreign
 * Interesting historial perspective
 
----
-
--> # Basics (from a *NIX user's perspective) <-
+# Basics
+### (from a *NIX user's perspective)
 
 * Finding our way around
 * "Where's my stuff?"
 * File editing basics
 
----
-
--> # Submitting a job from TSO <-
+# Submitting a job
+### from TSO
 
 * Upload to mainframe
 * Edits via TSO
 * Hello World
 
----
-
--> # Submitting a job old school style <-
+# Submitting a job
+### old school style
 
 * MFCM
 * Each line is a "card"
 * FizzBuzz demo
 
----
-
--> # Further Reading <-
+# Further Reading
 
 * [Hercules website](http://www.hercules-390.org/)
 * [Jurgen's Tur(n)key site](http://wotho.ethz.ch/tk4-/)
 * [Jay Moseley's TSO Tutorial](http://www.jaymoseley.com/hercules/tso_tutor/tsotutor.htm)
 * [moshix mainframe channel](https://www.youtube.com/user/moshe5760)
-
----
