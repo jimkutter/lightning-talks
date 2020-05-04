@@ -19,6 +19,8 @@
 * "Where's my stuff?"
 * File editing basics
 
+# Demo
+
 # Submitting a job
 ### from TSO
 
@@ -26,12 +28,16 @@
 * Edits via TSO
 * Hello World
 
+# Demo
+
 # Submitting a job
 ### old school style
 
 * MFCM
 * Each line is a "card"
 * FizzBuzz demo
+
+# Demo
 
 # Further Reading
 
